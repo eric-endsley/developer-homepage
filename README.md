@@ -16,6 +16,10 @@ Clone this repository. Open the index.html file in a web browser application of 
 
 HTML, CSS and Bootstrap
 
+## Link
+
+[Click Here!](http://eric-endsley.github.io/week-1-project)
+
 ## Known Bugs
 
 None
