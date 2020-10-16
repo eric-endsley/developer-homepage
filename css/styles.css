@@ -50,3 +50,14 @@ img {
   color: sienna;
   font-style: italic;
 }
+
+.box a {
+  color: darkblue;
+  font-style: oblique;
+}
+
+.center {
+  text-align: center;
+  padding-left: 200px;
+  padding-right: 200px;
+}
