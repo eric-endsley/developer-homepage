@@ -8,7 +8,7 @@ body {
 
 .jumbotron {
   background-color:rgba(35, 139, 34, 0.4);
-  border: 10px solid black
+  border: 10px solid black;
 }
 
 .box {
@@ -25,16 +25,25 @@ body {
 }
 
 img {
-border: 2px solid black;
-}
-
-.right {
-  float: right;
+  border: 2px solid black;
   border-radius: 50%;
   height: 250px;
   display: block;
+  margin-bottom: 20px;
+}
+
+img.right {
+  float: right;
+}
+
+img.left {
+  float: left;
 }
 
 .text-right {
-text-align: right
+  text-align: right;
+}
+
+ul.right {
+  direction: rtl;
 }
