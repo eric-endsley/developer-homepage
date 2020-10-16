@@ -2,13 +2,10 @@ body {
   font-family: sans-serif;
 }
 
-.center {
-  text-align: center;
-}
-
 .jumbotron {
   background-color:rgba(35, 139, 34, 0.4);
   border: 10px solid black;
+  text-align: center;
 }
 
 .box {
@@ -24,6 +21,14 @@ body {
   min-height: 270px;
 }
 
+.left img {
+  float: right;
+}
+
+.right img {
+  float: left;
+}
+
 img {
   border: 2px solid black;
   border-radius: 50%;
@@ -32,18 +37,16 @@ img {
   margin-bottom: 20px;
 }
 
-img.right {
-  float: right;
-}
 
-img.left {
-  float: left;
-}
-
-.text-right {
+.right {
   text-align: right;
 }
 
-ul.right {
+.right ul {
   direction: rtl;
+}
+
+.sublist {
+  color: sienna;
+  font-style: italic;
 }
