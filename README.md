@@ -29,4 +29,5 @@ None
 To ask questions or report a bug, contact [Eric Endsley](mailto:eric.endsley4@gmail.com)
 
 ## Legal
+
 This software is licensed under the MIT license.
