@@ -12,13 +12,17 @@ This is a page to host my coding portfolio with links to a few of my projects on
 
 Clone this repository. Open the index.html file in a web browser application of your choice.
 
+## Technologies Used
+
+HTML, CSS and Bootstrap
+
 ## Known Bugs
 
 None
 
 ## Contact Information
 
-To ask questions or report a bug contact [Eric Endsley](mailto:eric.endsley4@gmail.com)
+To ask questions or report a bug, contact [Eric Endsley](mailto:eric.endsley4@gmail.com)
 
 ## Legal
 This software is licensed under the MIT license.
