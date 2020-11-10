@@ -18,7 +18,7 @@ HTML, CSS and Bootstrap
 
 ## Link
 
-[Click Here!](http://eric-endsley.github.io/week-1-project)
+[Click Here!](http://eric-endsley.github.io/developer-homepage)
 
 ## Known Bugs
 
